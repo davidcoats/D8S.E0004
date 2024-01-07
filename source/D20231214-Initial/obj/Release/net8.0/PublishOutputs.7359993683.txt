@@ -1,0 +1,7 @@
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0004\source\D20231214-Initial\bin\publish\D20231214-Initial.exe
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0004\source\D20231214-Initial\bin\publish\appsettings.Development.json
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0004\source\D20231214-Initial\bin\publish\appsettings.json
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0004\source\D20231214-Initial\bin\publish\D20231214-Initial.dll
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0004\source\D20231214-Initial\bin\publish\D20231214-Initial.deps.json
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0004\source\D20231214-Initial\bin\publish\D20231214-Initial.runtimeconfig.json
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0004\source\D20231214-Initial\bin\publish\D20231214-Initial.pdb

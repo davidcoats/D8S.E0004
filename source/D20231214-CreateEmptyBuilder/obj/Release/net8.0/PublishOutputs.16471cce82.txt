@@ -1,0 +1,7 @@
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0004\source\D20231214-CreateEmptyBuilder\bin\publish\D20231214-CreateEmptyBuilder.exe
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0004\source\D20231214-CreateEmptyBuilder\bin\publish\appsettings.Development.json
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0004\source\D20231214-CreateEmptyBuilder\bin\publish\appsettings.json
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0004\source\D20231214-CreateEmptyBuilder\bin\publish\D20231214-CreateEmptyBuilder.dll
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0004\source\D20231214-CreateEmptyBuilder\bin\publish\D20231214-CreateEmptyBuilder.deps.json
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0004\source\D20231214-CreateEmptyBuilder\bin\publish\D20231214-CreateEmptyBuilder.runtimeconfig.json
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0004\source\D20231214-CreateEmptyBuilder\bin\publish\D20231214-CreateEmptyBuilder.pdb

@@ -1,0 +1,7 @@
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0004\source\D20231214-CreateSlimBuilder\bin\publish\D20231214-CreateSlimBuilder.exe
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0004\source\D20231214-CreateSlimBuilder\bin\publish\appsettings.Development.json
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0004\source\D20231214-CreateSlimBuilder\bin\publish\appsettings.json
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0004\source\D20231214-CreateSlimBuilder\bin\publish\D20231214-CreateSlimBuilder.dll
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0004\source\D20231214-CreateSlimBuilder\bin\publish\D20231214-CreateSlimBuilder.deps.json
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0004\source\D20231214-CreateSlimBuilder\bin\publish\D20231214-CreateSlimBuilder.runtimeconfig.json
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0004\source\D20231214-CreateSlimBuilder\bin\publish\D20231214-CreateSlimBuilder.pdb
