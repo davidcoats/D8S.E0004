@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\D20231214-CreateEmptyBuilder.props" />
-</Project>
